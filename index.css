@@ -9,7 +9,7 @@ html{
 #body_slider{
     height: 740px;
     width: 100%;
-    background-image: url(../../Images/BG2.jpg);
+    background-image: url(Images/BG2.jpg);
     background-size: 100%;    
     animation-name: zoom;
     animation-duration: 10s;
